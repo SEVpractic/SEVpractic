@@ -2,7 +2,7 @@
 Меня зовут Евгений и я являюсь бэкэнд разработчиком. Я веду разработку на языке Java.
 
 Мой технологический стек:
-Java Core; фреймворки Spring, Spring Boot, Spring Data; библиотеки Unirest, Hibernate, Querydsl; SQL и БД PostgreSQL, H2; тестирование функционала с применением библиотеки JUnit, фреймворка Mockito, ПО Postman. Использовал: среду разработки Intellij IDEA, систему сборки Maven, систему контроля версий Git, инcтрументарий Swagger.
+Java Core; фреймворки Spring, Spring Boot, Spring Data; библиотеки Unirest, Hibernate, Querydsl; SQL и БД PostgreSQL, H2; тестирование функционала с применением библиотеки JUnit, фреймворка Mockito, ПО Postman. Использую: среду разработки Intellij IDEA, систему сборки Maven, систему контроля версий Git, инcтрументарий Swagger.
 
 <!--
 **SEVpractic/SEVpractic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
